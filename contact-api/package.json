@@ -1,0 +1,8 @@
+{
+  "name": "@yaellizarraga.io/contact-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yael Lizarraga",
+  "license": "MIT",
+  "private": false
+}

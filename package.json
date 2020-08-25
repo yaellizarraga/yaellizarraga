@@ -1,0 +1,18 @@
+{
+  "name": "@yaellizarraga.io/yaellizarraga.io",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "repository": "https://github.com/yaellizarraga/yaellizarraga.git",
+  "author": "Yael Lizarraga",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "contact-api",
+    "core",
+    "models",
+    "projects-api",
+    "services",
+    "ui"
+  ]
+}

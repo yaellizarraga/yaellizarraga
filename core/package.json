@@ -1,0 +1,9 @@
+{
+  "name": "@yaellizarraga.io/core",
+  "version": "1.0.0",
+  "description": "core of yaellizarraga.io",
+  "main": "index.js",
+  "author": "Yael Lizarraga",
+  "license": "MIT",
+  "private": false
+}
